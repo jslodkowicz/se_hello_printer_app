@@ -5,7 +5,7 @@ Simple Flask App
     :target: https://travis-ci.org/jslodkowicz/se_hello_printer_app
 
 .. image::https://app.statuscake.com/button/index.php?Track=3976162&Days=1&Design=1
-    :target: https://app.statuscake.com/UptimeStatus.php?tid=3976162
+    :target: https://app.statuscake.com/
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć 
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
