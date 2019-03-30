@@ -9,3 +9,7 @@ script:
   - make lint
   - make test
   - make docker_build
+deploy:
+  - provider: heroku
+  - app: fast-lake-62558
+  - api_key: ${HEROKU_API_KEY}
