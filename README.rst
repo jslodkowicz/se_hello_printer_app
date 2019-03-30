@@ -67,6 +67,15 @@ Ubuntu
 Centos
 ------
 
+Makefile
+------
+
+make deps
+make lint
+make test
+make run
+
+
 - Instalacja python virtualenv i virtualenvwrapper:
 
   ::
