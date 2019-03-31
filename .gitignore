@@ -1,2 +1,7 @@
 **/*.pyc
 .cache
+.DS_store
+.coverage
+coverage.xml
+test_results.xml
+
